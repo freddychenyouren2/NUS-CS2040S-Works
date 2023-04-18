@@ -1,3 +1,7 @@
+Problem Set 2:
+Part 1 - Binary Search Optimization Problem
+Part 2 - Load Balancing Problem
+
 Instructions for Setting Up PS2 on IntelliJ
 -------------------------------------------
 Extract the entire 'ps2' directory in the zip file to a directory of your choice on your computer.
